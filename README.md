@@ -39,7 +39,7 @@ Our approach combines meticulous EEG wave pre-processing, text decoding using la
 ## 🔧 Installation and Usage
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Gaurav-22-11/EEG-Wave-Image-Generation.git
+    git clone https://github.com/divija444/EEG-Wave-Image-Generation.git
     cd EEG-Wave-Image-Generation
     ```
 
@@ -85,7 +85,6 @@ Our approach combines meticulous EEG wave pre-processing, text decoding using la
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/Gaurav-22-11/EEG-Wave-Image-Generation/issues) for open tasks.
 
 ---
 
@@ -95,6 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🧑‍💻 Author
-**Gaurav Dnyanesh Mahajan**  
-- [GitHub](https://github.com/Gaurav-22-11)  
-- [LinkedIn](https://linkedin.com/in/gauravdnyaneshmahajan)  
+**Divija Lekkalapudi**  
+- [GitHub](https://github.com/divija444)  
+- [LinkedIn](https://www.linkedin.com/in/divija444/)  
